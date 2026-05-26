@@ -210,4 +210,6 @@ This project demonstrates:
 
 # 👨‍💻 Developed By
 
+Gangalakshmi Raja 
+
 Developed as an advanced analytics and business intelligence portfolio project using Python and Microsoft Power BI.
