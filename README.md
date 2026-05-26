@@ -1,4 +1,4 @@
-# 🎯 AI YouTube Intelligence Dashboard
+# 🎯 YouTube Intelligence Dashboard
 
 ## Advanced Business Intelligence & Creator Analytics Platform
 
@@ -10,7 +10,7 @@ The project integrates API-based data extraction, ETL processing, KPI engineerin
 
 # 📌 Project Overview
 
-The AI YouTube Intelligence Dashboard is designed to analyze YouTube creator ecosystems through data-driven insights and interactive business intelligence reporting.
+The YouTube Intelligence Dashboard is designed to analyze YouTube creator ecosystems through data-driven insights and interactive business intelligence reporting.
 
 The system dynamically extracts YouTube channel and video-level data, processes it using Python, and visualizes advanced analytics through a professionally designed Power BI dashboard.
 
@@ -66,6 +66,7 @@ The platform focuses on:
 | YouTube Data API v3 | Live YouTube analytics data |
 | Pandas | Data manipulation & transformation |
 | Microsoft Power BI | Interactive dashboard visualization |
+| Google Cloud API | API integration & authentication |
 | dotenv | API key security |
 | CSV | Intermediate data storage |
 
@@ -153,13 +154,15 @@ Interactive Business Intelligence
 # 📂 Project Structure
 
 ```text
-AI_Youtube_Dashboard/
+YouTube_Intelligence_Dashboard/
 │
 ├── data/
 │   └── youtube_advanced_data.csv
 │
+├── scripts/
+│   └── youtube_analysis.py
+│
 ├── dashboard/
-│   ├── youtube_analysis.py
 │   └── YouTube_Intelligence_Dashboard.pbix
 │
 ├── screenshots/
@@ -186,7 +189,7 @@ No API keys are exposed publicly.
 
 # 📌 Future Enhancements
 
-- AI Sentiment Analysis
+- Sentiment Analysis
 - Viral Trend Prediction
 - Machine Learning Forecasting
 - SQL Database Integration
@@ -210,6 +213,6 @@ This project demonstrates:
 
 # 👨‍💻 Developed By
 
-Gangalakshmi Raja 
+Gangalakshmi Raja
 
 Developed as an advanced analytics and business intelligence portfolio project using Python and Microsoft Power BI.
