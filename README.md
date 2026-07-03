@@ -7,6 +7,12 @@ An enterprise-style analytics dashboard built using Python, YouTube Data API, an
 The project integrates API-based data extraction, ETL processing, KPI engineering, and interactive dashboard visualization into a unified analytics solution.
 
 ---
+# 📌 Screenshots
+<img width="1076" height="605" alt="Screenshot 2026-05-26 191609" src="https://github.com/user-attachments/assets/0e1d80ff-6cad-484a-ad69-b9007e1a34e3" />
+<img width="1075" height="602" alt="Screenshot 2026-05-26 191623" src="https://github.com/user-attachments/assets/bfeeb48a-c06b-4cc9-8c2c-2eeaf7ff7395" />
+<img width="1073" height="607" alt="Screenshot 2026-05-26 191638" src="https://github.com/user-attachments/assets/c56aa2f2-d8a8-41c3-a20f-769f57ca34dd" />
+<img width="1075" height="606" alt="Screenshot 2026-05-26 191821" src="https://github.com/user-attachments/assets/836a998e-f4d5-450b-9676-3fe2d2b0419f" />
+
 
 # 📌 Project Overview
 
